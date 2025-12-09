@@ -119,13 +119,3 @@ Every line of code was written with understanding and purpose.
 
 🚀 The next step will be to build **another OOP project** to further reinforce these principles — pushing our design, abstraction, and coding skills to the next level.
 
----
-
-
-## 🏷️ Hashtags  
-
-#OOP #Encapsulation #Abstraction #Inheritance #Polymorphism #ProgrammingAdvices #LearningJourney #CPlusPlus #Programming #Debugging #SoftwareDevelopment #ProblemSolving #CodeOptimization #TechCareer #KeepLearning #Algorithms #LearningByDoing #AbuHadhoud #TechJourney #ProgrammingJourney #Cplusplus #LearnToCode #ObjectOrientedProgramming #Developers #CleanCode #SoftwareEngineering #CodingLife #TechSkills #CodeLearning #CppProjects #ProgrammingCommunity #BuildInPublic #DeveloperMindset #StudyWithMe #ComputerScience #BankSystem #PracticeMakesPerfect #ProgrammerLifestyle
-
-
-The system follows a **layered OOP architecture** that promotes separation of concerns:
-
